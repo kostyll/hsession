@@ -1,0 +1,9 @@
+HSession - HOME Session Manager for X11
+=======================================
+
+Provide hsession-daemon and hsession-exit.
+
+Features: 
+* Auto-start programs
+* Helper for shutting down, restarting, suspending and hibernating.
+
