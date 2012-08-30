@@ -1,9 +1,4 @@
-HSession - HOME Session Manager for X11
-=======================================
+This repository has been deprecated by the SVN repository.
 
-Provide hsession-daemon and hsession-exit.
-
-Features: 
-* Auto-start programs
-* Helper for shutting down, restarting, suspending and hibernating.
+Please see http://ekd123.org/newblog/projects/
 
